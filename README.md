@@ -1,5 +1,7 @@
 # Rock-GAN
+Mattéo Debiere
 
+___
 This project implements a Generative Adversarial Network (GAN) for generating synthetic rock images, using **Keras** and **TensorFlow**. A kaggle dataset (https://www.kaggle.com/datasets/stealthtechnologies/rock-classification) is used for the training images with labels.
 
 The objective is to train a conditional Generative Adversarial Network (cGAN) to generate realistic rock images from 9 different classes.
